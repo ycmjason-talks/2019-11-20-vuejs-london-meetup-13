@@ -1,0 +1,19 @@
+{
+  "name": "2019-11-20-vuejs-london-meetup-13",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Yu <me@ycmjason.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.15"
+  }
+}
